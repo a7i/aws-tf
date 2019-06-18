@@ -1,4 +1,4 @@
-FROM hashicorp/terraform:0.12.0-rc1
+FROM hashicorp/terraform:0.12.2
 
 LABEL author="a7i"
 
